@@ -1,2 +1,2 @@
-# Project-laundry-
+# Proyek  laundry UML
 Pengumpulan Rancangan proyek UML Laundry
